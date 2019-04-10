@@ -2,7 +2,7 @@ export const defaultState = {
     users: [{
         id: "U1",
         name: "Dev"
-    }, , {
+    }, {
         id: "U2",
         name: "C. Eeyo"
     }],
